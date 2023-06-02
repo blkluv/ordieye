@@ -3,3 +3,4 @@ streamlit
 requests
 ratelimiter
 tenacity
+matplotlib
